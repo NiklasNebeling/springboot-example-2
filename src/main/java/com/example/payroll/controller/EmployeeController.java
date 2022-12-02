@@ -1,6 +1,5 @@
 package com.example.payroll.controller;
 
-import com.example.payroll.EmployeeModelAssembler;
 import com.example.payroll.entities.Employee;
 import com.example.payroll.errorhandling.EmployeeNotFoundException;
 import com.example.payroll.repositories.EmployeeRepository;
