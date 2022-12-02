@@ -9,6 +9,7 @@ import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;
 
 @Component
+public
 class OrderModelAssembler implements RepresentationModelAssembler<Order, EntityModel<Order>> {
 
     @Override
