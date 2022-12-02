@@ -2,7 +2,6 @@ package com.example.payroll.controller;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
-import com.example.payroll.controller.EmployeeController;
 import com.example.payroll.entities.Employee;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
